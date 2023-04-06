@@ -1,0 +1,10 @@
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.Form1.resources
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.Properties.Resources.resources
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.csproj.GenerateResource.cache
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.csproj.CoreCompileInputs.cache
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\bin\Debug\Lab_TFAIG.exe.config
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\bin\Debug\Lab_TFAIG.exe
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\bin\Debug\Lab_TFAIG.pdb
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.exe
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.pdb
+C:\Users\gusev\source\repos\4 semestr\Lab_TFAIG\obj\Debug\Lab_TFAIG.csproj.AssemblyReference.cache

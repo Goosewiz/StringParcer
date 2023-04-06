@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_TFAIG", "Lab_TFAIG.csproj", "{03B352C4-0285-43E2-8EBC-A43C952E6B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B352C4-0285-43E2-8EBC-A43C952E6B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B352C4-0285-43E2-8EBC-A43C952E6B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B352C4-0285-43E2-8EBC-A43C952E6B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B352C4-0285-43E2-8EBC-A43C952E6B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4655238A-F7D0-438A-B44C-1A164BCBF256}
+	EndGlobalSection
+EndGlobal
