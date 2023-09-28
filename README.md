@@ -1,6 +1,7 @@
 # StringParcer
 Реализация задания по синтаксическому анализу описания типов языка Modula-2.
 Примеры правильных цепочек
+
 TYPE er = SET OF CARDINAL;
 
 TYPE GF = ARRAY [7..78], [98..566] OF CHAR;
